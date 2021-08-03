@@ -1,5 +1,10 @@
 # Putol's slstatus - suckless status
 
+## !!! Under Development !!!
+### Todo
+1. Fix date
+2. Add Disk status
+
 ## About
 - slstatus is a suckless status monitor for window managers that use WM_NAME
 (e.g. dwm) or stdin to fill the status bar.
